@@ -1,0 +1,16 @@
+.container{
+    width:1200px;
+    margin:auto;
+}
+.text-center{
+    text-align: center;
+}
+.upper{
+    text-transform: uppercase;
+}
+.main-color{
+    color:#f7600e
+}
+.main-background{
+    background-color:#f7600e
+}
